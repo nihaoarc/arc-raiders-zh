@@ -5,6 +5,8 @@ description: 用简体中文解答 ARC Raiders（弧光猎人）及 ARC Tracker 
 
 # ARC Raiders 中文攻略
 
+从链接读取此技能时，以本文件所在的 URL 目录为基准解析 `references/` 和 `scripts/` 相对路径，再按问题读取对应的资料。 [在线技能目录](https://github.com/nihaoarc/arc-raiders-zh/tree/main/arc-raiders-zh)
+
 先给结论和能执行的步骤，简洁、专业。关键数据附直接来源。动态事件、版本、掉落和数值在回答时查证。查资料和统一叫法时读 [术语与资料来源](references/sources-and-glossary.md)。
 
 ## ARC Tracker 简中站
