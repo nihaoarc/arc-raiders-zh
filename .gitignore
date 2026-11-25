@@ -1,0 +1,4 @@
+/arc-raiders-zh/data/
+__pycache__/
+.env
+.env.*
